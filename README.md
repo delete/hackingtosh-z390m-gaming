@@ -12,7 +12,7 @@
 | ------------------- | ----------------------------------------------- |
 | CPU                 | Intel i7 9700K LGA1151                          |
 | MotherBoard         | Gigabyte Z390M Gaming                           |
-| Memory              | Corsair Vengeance 8G DDR4 3200 x 2 RGB pro      |
+| Memory              | Corsair Vengeance 8G DDR4 3200 x 4 RGB pro      |
 | Graphic Card        | RX 5600 XT 6GB                                  |
 | SSD                 | SanDisk SDSSDA 240G                             |
 | WIFI/Bluetooth Card | fenvi FV-HB1200                                 |
